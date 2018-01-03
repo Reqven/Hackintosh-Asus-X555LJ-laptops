@@ -16,7 +16,7 @@ Content in the first column | Content in the second column
 
 
 
-Working
+### Working
 * Keyboad & Trackpad
 * Intel integrated graphic card
 * Brightness control 
@@ -24,7 +24,7 @@ Working
 * Wi-FI
 * HDMI
 
-Not working yet
+### Not working yet
 * All trackpad gestures
 * Nvidia dedicated graphic card
 * Media keys (some work)
