@@ -8,7 +8,7 @@ You must inquire yourself about the Hackintosh world at www.tonymacx86.com where
 * Intel integrated graphic card
 * Brightness control 
 * Audio
-* Wi-FI
+* WiFI
 * HDMI
 
 ### Not working yet
@@ -20,9 +20,13 @@ You must inquire yourself about the Hackintosh world at www.tonymacx86.com where
 
 
 ## Specs required (or similar)
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
+| item        |      device     |
+| ------------- |-------------|
+| Processor      | Intel Core i5-5200U |
+| Integrated GPU | Intel HD 5500 |
+| Dedicated GPU  | Nvidia 920M |
+| Audio | Realtek ALC 3236 |
+| WiFi | Atheros Qualcomm AR9565 |
 ````
 Device (PNLF)
 {
