@@ -16,11 +16,20 @@ Content in the first column | Content in the second column
 
 
 
+Working
+* Keyboad & Trackpad
+* Intel integrated graphic card
+* Brightness control 
+* Audio
+* Wi-FI
+* HDMI
 
-- o
-- o
-- o
-- o
+Not working yet
+* All trackpad gestures
+* Nvidia dedicated graphic card
+* Media keys (some work)
+* HDMI Audio
+* Bluetooth
 
 ````
 Device (PNLF)
