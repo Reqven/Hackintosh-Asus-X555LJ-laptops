@@ -1,7 +1,8 @@
 ## Hackintosh for ASUS X555LJ Laptops
 
-The following repository shares different settings to get a working Hackintosh using macOS Sierra 10.12.6.<br>
-It requires no experience as the Hackintosh world is well explained at www.tonymacx86.com
+The following repository shares different files I've been using to get a working Hackintosh with Mac OS X Sierra 10.12.6.<br>
+You must inquire yourself about the Hackintosh world at www.tonymacx86.com where you'll find plenty of guide.
+
 
 ````
 Device (PNLF)
