@@ -27,5 +27,6 @@ You must inquire yourself about the Hackintosh world at www.tonymacx86.com where
 | Dedicated GPU  | Nvidia 920M |
 | Audio | Realtek ALC 3236 |
 | WiFi | Atheros Qualcomm AR9565 |
-````
 
+
+Will be updated soon!
